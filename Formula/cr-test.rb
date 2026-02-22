@@ -1,4 +1,4 @@
-class Ucr-test < Formula
+class CrTest < Formula
   desc "Central Releases test CLI"
   homepage "https://central-releases.com"
   url "https://github.com/central-releases-com/homebrew-cr-test/releases/download/v0.0.1/cr-test-0.0.1.tar.gz"
